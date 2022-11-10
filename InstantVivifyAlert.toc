@@ -1,0 +1,7 @@
+## Interface: 10000
+## Title: InstantVivifyAlert
+## Version: 0.0.1
+## Notes: Alerts if you have an instant vivify available
+## Author: Carlos Mejía
+
+InstantVivifyAlert.lua
